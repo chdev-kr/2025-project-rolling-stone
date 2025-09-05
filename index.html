@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Three.js</title>
+    <link rel="stylesheet" href="./main.css" />
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.174.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.174.0/examples/jsm/",
+          "gsap": "https://cdn.skypack.dev/gsap"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <canvas id="three-canvas"></canvas>
+    <div id="score-display">
+      <h2>점수: <span id="score-value">0</span></h2>
+    </div>
+    <script src="ex03.js" type="module"></script>
+  </body>
+</html>

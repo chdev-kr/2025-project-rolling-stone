@@ -2,7 +2,8 @@
 
 Three.js를 활용한 3D 바위 피하기 게임입니다. 산에서 굴러오는 바위들을 클릭하여 파괴하고 점수를 획득하는 게임입니다.
 
-![화면 기록 2025-09-21 오후 2 53 43](https://github.com/user-attachments/assets/12edd2dc-d908-4a81-8174-63c3677084cc)
+![화면 기록 2025-09-21 오후 3 01 16](https://github.com/user-attachments/assets/20bd0acb-f939-4246-b0bd-79f4de484c07)
+
 
 
 ## 🎮 게임 소개
